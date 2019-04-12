@@ -21,9 +21,11 @@ Download SNA.R and rusn to launch shiny app
 Upload relevant files
 Links file(email-Eu-core): This should contain the list of links
 Nodes File(email-Eu-core-department-labels): this should have unique list of nodes and their group
+
+
+
 Use cases
 This app can be used for various kinds of network analysis if files are uploaded in proper format:
-
 Social Network: Who interatcs whine whom
 Sports Network: For example, links can be the passes made between players(nodes) in a basketball match
 People Analytics
