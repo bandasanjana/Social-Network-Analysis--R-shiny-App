@@ -16,12 +16,6 @@ Links file: This should contain two columns. First column representing the origi
 
 Nodes File: Two columns, first one should represnt the node and second one should represent the group of the node
 
-How to use:
-Download SNA.R and rusn to launch shiny app
-Upload relevant files
-Links file(email-Eu-core): This should contain the list of links
-Nodes File(email-Eu-core-department-labels): this should have unique list of nodes and their group
-
 
 
 Use cases
