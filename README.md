@@ -2,5 +2,6 @@
 
 
 Shiny App on Social Network Analysis -
-Working on an Interactive web app with R, to perform Social Network Analysis using igraph libraries.
-Deployed complex functions in R for minimizing the time and increasing the efficiency.
+Interactive R shiny application on European union dataset for understanding Social Network Analysis using igraph libraries and programmatically computed the number of emails sent and received by each person.
+Displayed impactful visualizations of 1-hop and 2-hop neighbors for the nodes with highest degree centrality and deployed functions in R for reducing the time and increasing efficiency.
+
