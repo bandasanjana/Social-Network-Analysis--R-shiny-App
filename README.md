@@ -20,8 +20,8 @@ Nodes File: Two columns, first one should represnt the node and second one shoul
 
 Use cases
 This app can be used for various kinds of network analysis if files are uploaded in proper format:
-Social Network: Who interatcs whine whom
-Sports Network: For example, links can be the passes made between players(nodes) in a basketball match
-People Analytics
+Social Network: Who interatcs whine whom,
+Sports Network: For example, links can be the passes made between players(nodes) in a basketball match,
+People Analytics,
 Customer Network
 
